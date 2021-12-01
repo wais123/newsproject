@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/uwais/news_project/BuildConfig.java
+ com.uwais.news_project.BuildConfig
